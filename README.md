@@ -2,6 +2,8 @@
 
 A set of 22 benchmark instances used in the paper: "PasMoQAP: A Parallel Asynchronous Memetic Algorithm for solving the Multi-Objective Quadratic Assignment Problem"
 
+The *data* directory stores the instances and the *stats* directory stores the summary of statistics obtained when using the instance generator proposed by Knowles.  
+
 # Title
 PasMoQAP: A Parallel Asynchronous Memetic Algorithm for solving the Multi-Objective Quadratic Assignment Problem
 
